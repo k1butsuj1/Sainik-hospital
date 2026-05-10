@@ -1,0 +1,8 @@
+{
+  "name": "Sainik Multispeciality Hospital",
+  "description": "Premium multispeciality healthcare website for Sainik Hospital in Mysore, featuring advanced medical care and 24/7 emergency services.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": []
+}
